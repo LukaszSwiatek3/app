@@ -1,6 +1,6 @@
 package com.wevibe.app.registration;
 
-import com.wevibe.app.dto.Address;
+import com.wevibe.app.dtos.Address;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

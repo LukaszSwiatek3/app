@@ -1,6 +1,6 @@
 package com.wevibe.app.registration.token;
 
-import com.wevibe.app.dto.User;
+import com.wevibe.app.dtos.User;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

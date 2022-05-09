@@ -1,4 +1,4 @@
-package com.wevibe.app.dto;
+package com.wevibe.app.dtos;
 
 import java.util.UUID;
 

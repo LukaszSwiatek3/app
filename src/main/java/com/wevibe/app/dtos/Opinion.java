@@ -1,4 +1,4 @@
-package com.wevibe.app.dto;
+package com.wevibe.app.dtos;
 
 public class Opinion {
     private Integer idOpinion;
